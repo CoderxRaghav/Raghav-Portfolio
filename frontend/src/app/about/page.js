@@ -99,10 +99,10 @@ export default function AboutPage() {
           <h3>Naukri Campus Young turks-Certificate</h3>
           <a href="https://www.naukri.com/campus/certificates/young_turks25_round_1_achievement/v0/68d9c861fac35327673e167f" target="_blank">View Certificate →</a>
         </div>
-        <br><div className="spec-card">
+        <br /><div className="spec-card">
           <h3>C++ Essentials- Cisco Networking Academy</h3>
           <a href="https://www.netacad.com/certificates/?issuanceId=7c9c7a05-a28d-4cc7-843c-7ea20945f75a" target="_blank">View Certificate →</a>
-        </div></br>
+        </div>
       </div>
     </section>
   );

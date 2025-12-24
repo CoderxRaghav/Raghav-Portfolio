@@ -66,7 +66,7 @@ export default function AcademicsPage() {
           <span className="badge">2022 – 2023</span>
           <h2>Senior Secondary (Class XII)</h2>
           <p className="institute">Jai Narayan Vidya Mandir</p>
-          <p className="marks">Marks: <strong>93%</strong></p>
+          <p className="marks">Marks: <strong>84%</strong></p>
         </div>
 
         <div className="card">

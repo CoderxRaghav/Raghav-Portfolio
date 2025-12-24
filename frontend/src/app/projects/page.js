@@ -243,6 +243,7 @@ export default function ProjectsPage() {
 
           <h2>PulsePoint</h2>
           <h3>Connecting the right minds to build winning teams.</h3>
+          <a href="https://pulsepointfinal.vercel.app/">PulsePoint Prototype</a>
 
           <p className="description">
             A smart team-building platform for hackathons and project

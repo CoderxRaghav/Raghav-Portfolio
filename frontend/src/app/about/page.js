@@ -92,8 +92,7 @@ export default function AboutPage() {
 
         <div className="spec-card">
           <h3>Management Series - QUIZ WINNER Certificate</h3>
-          <a href="https://unstop.com/certificate-preview/146a59da-2ee2-4197-b05e-504722c1873f" target="_blank">View Certificate →</a>
-        </div>
+          <a href="https://unstop.com/certificate-preview/146a59da-2ee2-4197-b05e-504722c1873f" target="_blank" rel="noopener noreferrer">View Certificate →</a>        </div>
 
         <div className="spec-card">
           <h3>Naukri Campus Young turks-Certificate</h3>
@@ -101,8 +100,8 @@ export default function AboutPage() {
         </div>
         <div className="spec-card">
           <h3>C++ Essentials- Cisco Networking Academy</h3>
-          <a href="https://www.netacad.com/certificates/?issuanceId=7c9c7a05-a28d-4cc7-843c-7ea20945f75a" target="_blank">View Certificate →</a>
-        </div>
+          <a href="https://www.netacad.com/certificates/?issuanceId=7c9c7a05-a28d-4cc7-843c-7ea20945f75a" target="_blank" rel="noopener noreferrer">View Certificate →</a>
+        </div>        
       </div>
     </section>
   );
